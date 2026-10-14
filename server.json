@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.tidydata-dev/tidydata",
+  "title": "TidyData Tools",
+  "description": "Holidays, business days, currency, time zones, DNS/WHOIS, web page checks, geodata and text tools.",
+  "repository": {
+    "url": "https://github.com/tidydata-dev/tidydata-mcp",
+    "source": "github"
+  },
+  "websiteUrl": "https://developers.tidydata.workers.dev/",
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://tidydata-api.tidydata.workers.dev/mcp"
+    }
+  ]
+}
