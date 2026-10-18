@@ -151,3 +151,5 @@ European Central Bank reference rates · date-holidays (CC BY 3.0) · GeoNames (
 ## License
 
 MIT for this repository (documentation and configuration). The hosted service is free within the daily limit above.
+
+💻 Code examples (curl, Python, JavaScript, Postman, OpenAPI) for every API: [tidydata-api-examples](https://github.com/tidydata-dev/tidydata-api-examples)
