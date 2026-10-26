@@ -146,10 +146,13 @@ European Central Bank reference rates · date-holidays (CC BY 3.0) · GeoNames (
 
 - Printables shop: [etsy.com/shop/TidyData](https://www.etsy.com/shop/TidyData)
 - Free web tools: [tidydata-tools.tidydata.workers.dev](https://tidydata-tools.tidydata.workers.dev/about/)
-- Apify actors: [apify.com/tidydata](https://apify.com/tidydata)
+- Apify actors: [apify.com/tidydata](https://apify.com/tidydata?fpr=wtg6qt)
 
 ## License
 
 MIT for this repository (documentation and configuration). The hosted service is free within the daily limit above.
 
 💻 Code examples (curl, Python, JavaScript, Postman, OpenAPI) for every API: [tidydata-api-examples](https://github.com/tidydata-dev/tidydata-api-examples)
+
+---
+<sub>Links to apify.com include our affiliate ID: if you start a paid Apify plan through them, Apify pays TidyData a commission at no extra cost to you.</sub>
